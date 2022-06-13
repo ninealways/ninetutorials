@@ -1,3 +1,3 @@
 # ninetutorials
 
-This is a template for Tutorail on Javascript and React!
+This is a template for Tutorails on Javascript and React!
