@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+/*Rem and Em*/
+/*1 Rem is browser dependent size which is usually 16px/ Em is dependent on parent's size*/
+.App {
+  text-align: left;
+  padding: 2rem;
+}
+
